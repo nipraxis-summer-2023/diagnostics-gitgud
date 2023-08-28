@@ -1,3 +1,5 @@
+'I just changed this file because the instructions told me to do so'
+
 # Diagnostics project
 
 Scripts go in the `scripts` directory.
